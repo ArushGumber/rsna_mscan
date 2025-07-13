@@ -46,9 +46,7 @@ Sagittal + Axial Crop Extraction
 ↓
 Image-Level Classification (EfficientNetV2)
 ↓
-Sequence Modeling (GRU/LSTM)
-↓
-Cross-Attention Fusion
+Custom Sequential Cross-Attention Architecture(see diagramme)
 ↓
 Level-Wise Severity Grading (L1/L2 through L5/S1)
 
