@@ -32,6 +32,9 @@ M-SCAN is a deep learning framework for fully automated grading of lumbar spinal
 ---
 
 ## Architecture
+![Architecture](assets/figure2-mscan.jpg)
+![Architecture](assets/figure3-mscan.jpg)
+
 
 
 ```
@@ -85,6 +88,8 @@ A live clinical simulation of M-SCAN is deployed at [https://mscan.vercel.app/](
 - Stenosis grading with confidence scores
 - Visual walkthroughs and level-wise grading reports
 - No manual preprocessing or configuration required
+
+![Output](assets/figure1-mscan.png)
 
 ---
 
